@@ -11,13 +11,7 @@ namespace SpinIt.RightAPI.Controllers
     public class AccountController : ControllerBase
     {
 
-    //    [HttpGet(Name = "Login")]
-    //    public IActionResult Login()
-    //{
-    //        return RedirectToAction("Index", "Home");
-    //    //return new string[] { "value1", "value2", "value3", "value4", "value5", "value6" };
-    //    //return Ok(_gameResipory.GetAll().ToList());
-    //}
+
 
     }
 }
